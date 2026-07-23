@@ -6,5 +6,13 @@
     {
         "package": "bootstrapper",
         "url": "https://github.com/VisruthSK/bootstrapper"
+    },
+    {
+        "package": "stanflow",
+        "url": "https://github.com/VisruthSK/stanflow"
+    },
+    {
+        "package": "ascribe",
+        "url": "https://github.com/VisruthSK/ascribe"
     }
 ]
